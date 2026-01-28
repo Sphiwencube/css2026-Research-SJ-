@@ -72,7 +72,7 @@ elif selected == "Skills":
     st.header("🛠 Technical Skills")
 
     st.subheader("Programming")
-    for skill in ["Python", "SQL", "Object-Oriented Programming"]:
+    for skill in ["Python", "SQL", "Object-Oriented Programming", "Java", "C++", "PHP"]:
         st.markdown(f"<span class='tag'>{skill}</span>", unsafe_allow_html=True)
 
     st.subheader("Data & Analytics")
@@ -80,10 +80,10 @@ elif selected == "Skills":
         st.markdown(f"<span class='tag'>{skill}</span>", unsafe_allow_html=True)
 
     st.subheader("Tools")
-    for tool in ["GitHub", "Visual Studio Code"]:
+    for tool in ["GitHub", "Visual Studio Code", "XAMPPA"]:
         st.markdown(f"<span class='tag'>{tool}</span>", unsafe_allow_html=True)
 
-    st.subheader("Other")
+    st.subheader("Soft Skills")
     for other in ["Problem Solving", "Communication", "Remote Collaboration"]:
         st.markdown(f"<span class='tag'>{other}</span>", unsafe_allow_html=True)
 
