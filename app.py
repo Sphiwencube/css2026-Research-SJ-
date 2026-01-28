@@ -60,10 +60,9 @@ if selected == "Profile":
     st.subheader("Graduate | Junior Data Analyst | Junior Software Developer | Junior Data Scientist")
 
     st.write("""
-    Entry-level Data Analyst and Software Developer with a strong foundation in **Python, SQL,
-    data analysis, and machine learning**. Experienced in building data-driven applications and
-    full-stack systems. Highly motivated, detail-oriented, and eager to apply analytical and
-    technical skills to real-world problems.
+    Postgraduate student registered for 2026 with a Bachelor of Science in Mathematical Sciences, specialising in computational problem-solving, data analysis, and artificial intelligence.
+    Strong foundation in Python, SQL, statistics, and software development, with academic and project-based experience in data-driven systems and machine learning. I'm willing contribute to innovative,
+    technology-focused research and industry-aligned solutions.
     """)
     st.markdown("</div>", unsafe_allow_html=True)
 
